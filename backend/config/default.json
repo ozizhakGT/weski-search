@@ -1,0 +1,14 @@
+{
+  "server": {
+    "port": 4000
+  },
+  "mainProvider": "weSki",
+  "providers": {
+    "weSki": {
+      "id": 1,
+      "name": "We-Ski",
+      "baseAPI": "https://gya7b1xubh.execute-api.eu-west-2.amazonaws.com/default",
+      "roomSizeLimitationCompareGroupSize": 3
+    }
+  }
+}
